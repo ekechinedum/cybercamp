@@ -1,0 +1,20 @@
+body {background-color:orchid;}
+h1{color:white;
+text-align : center;}
+p {font-family: verdana;
+font-size: 20px ;} 
+a{
+    color: green; 
+    padding:15px 
+}
+h2{color: pink}
+h3{color: maroon}
+h4{color:red}
+h5{color:purple}
+h6{color:turquoise}
+input{
+    margin:1em;
+}
+body {background-color: pink}
+h1 {color: yellow;
+text-align : left;}

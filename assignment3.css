@@ -1,0 +1,22 @@
+body {background-color: slategray; }
+p {border:1px solidblack;}
+a{
+    padding: 1em;
+}
+h1 {color:red}  
+h2{color:pink}
+h3{color:orange}
+.column{
+    width:30px
+}
+body {background-color: midnightblue}
+p {border:1px}
+a{
+    padding:1em;
+}
+h1{color:blue}
+h2{color:teal}
+h3{color:orangered}
+.column{
+    width:30px
+}
